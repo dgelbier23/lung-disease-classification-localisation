@@ -7,4 +7,4 @@ A detailed technical report is included, covering:
 - Evaluation under class imbalance  
 - Grad-CAM interpretability analysis  
 
-👉 [Read the full report](reports/lung_disease_classification_report.pdf)
+👉 [Read the full report](/reports/lung_disease_classification_report.pdf)
