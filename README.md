@@ -219,6 +219,10 @@ lung-disease-classifier/
 ├── .gitignore
 ├── lung_disease_classifier.ipynb  # Full pipeline, interactive
 │
+├── reports/
+│   ├── lung_disease_classification_report.pdf # Full Report and overview on everything
+│   ├── README.md
+│
 ├── src/
 │   ├── preprocessing.py               # Loading, augmentation, dataset splitting
 │   ├── model.py                       # Xception + custom head definition
