@@ -303,6 +303,14 @@ Or run everything interactively in `notebooks/lung_disease_classifier.ipynb`.
 
 ---
 
+## Inference - Pretrained Model
+
+A trained model is available for inference:
+
+👉 [Download here](YOUR_LINK)
+
+---
+
 ## Limitations
 
 These constrained every design decision — they are acknowledged, not hidden:
