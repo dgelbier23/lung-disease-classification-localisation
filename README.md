@@ -12,7 +12,6 @@
 
 </div>
 
-# Adapting and Assessing Transfer Learning for Lung Disease Classification and Localisation
 ---
 
 ## Overview
