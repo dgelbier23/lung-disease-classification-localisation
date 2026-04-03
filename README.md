@@ -231,7 +231,7 @@ lung-disease-classifier/
 │   │   ├── history.json
 │   │   └── results.json
 │   ├── exp_B12_unfreezing_test/       # BEST MODEL
-│   │   ├── model.keras
+│   │   ├── README.md
 │   │   ├── history.csv
 │   │   └── results.json
 │   └── [B1-B13 logs, no .keras]      # Full experimental record
