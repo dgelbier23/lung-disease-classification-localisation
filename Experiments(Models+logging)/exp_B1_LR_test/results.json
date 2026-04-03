@@ -1,0 +1,8 @@
+{
+  "exp_id": "exp_B1_LR_test",
+  "healthy_recall": 0.8711576193590582,
+  "pneumonia_recall": 0.9554455445544554,
+  "covid_recall": 0.9059040590405905,
+  "macro_f1": 0.8796486848554915,
+  "notes": "Frozen Xception backbone baseline"
+}

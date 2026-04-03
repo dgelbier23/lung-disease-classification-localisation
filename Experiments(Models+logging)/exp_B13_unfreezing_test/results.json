@@ -1,0 +1,8 @@
+{
+  "exp_id": "exp_B13_unfreezing_test",
+  "healthy_recall": 0.9934597776324395,
+  "pneumonia_recall": 0.9851485148514851,
+  "covid_recall": 0.988929889298893,
+  "macro_f1": 0.9864941611213145,
+  "notes": "Xception Finetuning"
+}
