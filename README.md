@@ -1,6 +1,3 @@
-# lung-disease-classification-localisation
-Deep learning system for lung disease classification and localisation from chest X-rays, using transfer learning and Grad-CAM for interpretable medical AI.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Lung%20Disease%20Classification%20%26%20Localisation&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Transfer%20Learning%20%7C%20Xception%20%7C%20Grad-CAM%20%7C%20Chest%20X-Ray%20Imaging&descAlignY=60&descSize=15&descColor=a8b2d8" width="100%"/>
@@ -14,7 +11,7 @@ Deep learning system for lung disease classification and localisation from chest
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 </div>
-
+# lung-disease-classification-localisation
 ---
 
 ## Overview
