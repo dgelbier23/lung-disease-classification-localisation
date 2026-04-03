@@ -1,14 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Lung%20Disease%20Classification%20%26%20Localisation&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Transfer%20Learning%20%7C%20Xception%20%7C%20Grad-CAM%20%7C%20Chest%20X-Ray%20Imaging&descAlignY=60&descSize=15&descColor=a8b2d8" width="100%"/>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Transfer%20Learning-D00000?style=flat-square&logo=keras&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+<!-- Dynamic header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Building%20AI%20that%20matters.&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=MSc%20AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Medical%20AI%20%E2%80%A2%20LLMs&descAlignY=58&descSize=16&descColor=c9b8f5" width="100%" />
 
 </div>
 
