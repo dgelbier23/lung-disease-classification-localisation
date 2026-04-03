@@ -217,9 +217,7 @@ lung-disease-classifier/
 ├── README.md                           # This file
 ├── requirements.txt                    # Python dependencies
 ├── .gitignore
-│
-├── notebooks/
-│   └── lung_disease_classifier.ipynb  # Full pipeline, interactive
+├── lung_disease_classifier.ipynb  # Full pipeline, interactive
 │
 ├── src/
 │   ├── preprocessing.py               # Loading, augmentation, dataset splitting
@@ -230,12 +228,12 @@ lung-disease-classifier/
 │
 ├── experiments/
 │   ├── exp_B0_baseline/
-│   │   ├── training_log.csv
-│   │   └── metrics.json
+│   │   ├── history.json
+│   │   └── results.json
 │   ├── exp_B12_unfreezing_test/       # BEST MODEL
-│   │   ├── model.keras
-│   │   ├── training_log.csv
-│   │   └── metrics.json
+│   │   ├── README.md
+│   │   ├── history.csv
+│   │   └── results.json
 │   └── [B1-B13 logs, no .keras]      # Full experimental record
 │
 ├── figures/
@@ -244,8 +242,11 @@ lung-disease-classifier/
 │   ├── results/
 │   └── gradcam/
 │
-└── data/
-    └── README.md                      # Dataset source + setup instructions
+└── Lung Data/
+│   ├── COVID/
+│   ├── HEALTHY/
+│   ├── PNEUMONIA/
+|   └── README.md                      # Dataset source + setup instructions
 ```
 
 ---
