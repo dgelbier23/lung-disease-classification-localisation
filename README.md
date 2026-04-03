@@ -221,7 +221,7 @@ lung-disease-classifier/
 │
 ├── reports/
 │   ├── lung_disease_classification_report.pdf # Full Report and overview on everything
-│   ├── README.md
+│   └── README.md
 │
 ├── src/
 │   ├── preprocessing.py               # Loading, augmentation, dataset splitting
@@ -242,6 +242,7 @@ lung-disease-classifier/
 │
 ├── figures/
 │   ├── architecture/
+│   ├── experiments/
 │   ├── preprocessing/
 │   ├── results/
 │   └── gradcam/
