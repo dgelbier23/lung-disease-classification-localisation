@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="figures/gradcam/localisation_gradcam_ex.png" alt="localisation of lung disease prediction" width="100%">
+  <img src="figures/gradcam/localisation_gradcam_ex.png" alt="localisation of lung disease prediction" width="60%">
 </p>
 
 
