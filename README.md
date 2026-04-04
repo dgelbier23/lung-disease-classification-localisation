@@ -14,6 +14,13 @@
 
 ---
 
+<p align="center">
+  <img src="figures/gradcam/localisation_gradcam_ex.png" alt="localisation of lung disease prediction" width="100%">
+</p>
+
+
+---
+
 ## Overview
 
 This project develops a **multi-class lung disease classifier** capable of distinguishing between **Healthy**, **Pneumonia**, and **COVID-19** chest X-ray images — with spatial localisation of pathological regions via **Grad-CAM**.
